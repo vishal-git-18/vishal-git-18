@@ -15,7 +15,6 @@
 
 🤖 I’m currently exploring AI and Machine Learning models, experimenting with ways to build something meaningful — a project that can create real-world impact and do a lot of good. 
 
-<br>
 
 
 ## Skills <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40" style="vertical-align: bottom; margin-left: 6px;" />
@@ -37,7 +36,6 @@
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap; width: 100%;">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Fire GIF" width="320" height="auto">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Fire GIF" width="320" height="auto">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Fire GIF" width="320" height="auto">
 </div>
